@@ -1,5 +1,5 @@
 # terraform-structure
-├── dev.tfvars
+(```├── dev.tfvars
 ├── main.tf
 ├── modules
 │   ├── acr
@@ -44,4 +44,4 @@
 │   └── storage
 │       ├── storage-acc.tf
 │       └── storage-vars.tf
-└── vars.tf
+└── vars.tf)
