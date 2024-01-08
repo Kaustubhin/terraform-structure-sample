@@ -1,6 +1,4 @@
 # terraform-structure
-.
-├── README.md
 ├── dev.tfvars
 ├── main.tf
 ├── modules
